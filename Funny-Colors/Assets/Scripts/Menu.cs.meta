@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d61ef02198adadd4e934511345d295bd
+timeCreated: 1431685743
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - camera1: {fileID: 2056760, guid: 5b51543bf3e79ab4dbabecad05299270, type: 2}
+  - camera2: {fileID: 2039046, guid: 1135b192b4826114ebfd103299b56c3b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
